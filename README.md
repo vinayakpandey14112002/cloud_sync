@@ -63,7 +63,7 @@ Portfolio: vinayak-portfolio-app.web.app
 
 GitHub: vinayakpandey14112002
 
-LinkedIn: Vinayak Pandey
+LinkedIn: "https://www.linkedin.com/in/vinayak-pandey-8b65a1382/"
 
 📝 License
 This project is open source and available under the MIT License.
