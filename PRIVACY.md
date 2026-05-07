@@ -12,4 +12,4 @@ To display weather information, CloudSync uses a weather data API. The API provi
 This privacy policy page is hosted on GitHub Pages, a service provided by GitHub Inc. When you access this page, GitHub may collect standard server logs (e.g., IP address, browser type, request timestamp) for security and operational purposes as described in [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
 ## 4. Contact
-If you have any questions about this policy, you can contact me at: **your-email@gmail.com**
+If you have any questions about this policy, you can contact me at: **panditt2002890@gmail.com**
